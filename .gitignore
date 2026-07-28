@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local data files
+data/processed_results.csv
+data/sentiops_imdb_results.csv
+
+# Virtual environments
+venv/
+.env
+
+# Hugging Face downloaded models cache (Windows/Linux local paths)
+.cache/
